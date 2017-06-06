@@ -1,0 +1,6489 @@
+<?xml version="1.0"?>
+
+<html>
+<head>
+<meta name="generator" content="HTML Tidy, see www.w3.org" />
+<meta http-equiv="Content-Type"
+content="text/html; charset=UTF-8" />
+<meta name="viewport"
+content="width=device-width, initial-scale=1" />
+<title>Japanparts</title>
+<link media="all" href="/css/bootstrap.css?version=20160704"
+type="text/css" charset="utf-8" />
+<link media="all" href="/css/style.css?version=20160704"
+type="text/css" charset="utf-8" />
+<link media="screen" href="/css/theme.css?version=20160704"
+type="text/css" charset="utf-8" />
+<link href="/css/jquery.jscrollpane.css?version=20160704"
+type="text/css" media="screen" charset="utf-8" />
+<link href="/css/fancymoves.css?version=20160704" type="text/css"
+media="screen" charset="utf-8" />
+<link href="/css/showcase.css?version=20160704" type="text/css"
+media="screen" charset="utf-8" />
+<link href="/css/bootstrap-override.css?version=20160704"
+type="text/css" media="all" charset="utf-8" />
+<link href="/css/datepicker3.css?version=20160704" type="text/css"
+media="all" charset="utf-8" />
+<link href="/css/bootstrap-switch.css?version=20160704"
+type="text/css" media="all" charset="utf-8" />
+<link href="/css/mag.css?version=20160704" type="text/css"
+media="all" charset="utf-8" />
+<link
+href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700"
+ type="text/css" />
+<link
+href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" />
+<link media="all" href="/css/responsive.css?version=20160704"
+type="text/css" charset="utf-8" />
+<link media="print" href="/css/print.css?version=20160704"
+type="text/css" charset="utf-8" />
+<link type="image/x-icon" href="/img/fav.ico?version=20160704" />
+</head>
+<body>
+<div id="wrapper">
+<div id="header">
+<div class="container">
+<div class="row">
+<div class="logo"><a id="logo" class="pull-left" href="/"><img
+src="/img/japanparts-logo.png" alt="Japanparts" /></a></div>
+
+<div id="navigation" class="pull-right">
+<div class="top-nav">
+<ul>
+<li class="lang-selector"><a href="#"><span
+class="lang en hidden">language</span></a> 
+
+<ul class="lang">
+<li><a onclick="return setLanguage(this, 'it');" href="#"><img
+src="/img/flag/1-ita.png" width="20" height="14"
+alt="it" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'en');" href="#"><img
+src="/img/flag/2-eng.png" width="20" height="14"
+alt="en" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'fr');" href="#"><img
+src="/img/flag/3-fra.png" width="20" height="14"
+alt="fr" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'de');" href="#"><img
+src="/img/flag/4-deu.png" width="20" height="14"
+alt="de" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'es');" href="#"><img
+src="/img/flag/5-esp.png" width="20" height="14"
+alt="es" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'pt');" href="#"><img
+src="/img/flag/6-por.png" width="20" height="14"
+alt="pt" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'pt');" href="#"><img
+src="/img/flag/7-bra.png" width="20" height="14"
+alt="pt" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'pl');" href="#"><img
+src="/img/flag/8-pol.png" width="20" height="14"
+alt="pl" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'ru');" href="#"><img
+src="/img/flag/9-rus.png" width="20" height="14"
+alt="ru" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'gr');" href="#"><img
+src="/img/flag/10-ell.png" width="20" height="14"
+alt="gr" /></a></li>
+</ul>
+</li>
+
+<li><a href="/search.jsp?search=all"><span
+class="lang en hidden">catalogue</span></a></li>
+
+<li><a href="#" data-toggle="modal" data-target="#loginModal"><span
+class="lang en hidden">reserved area</span>  </a></li>
+</ul>
+</div>
+
+<div class="main-nav">
+<ul>
+<li class="has-children"><a onclick="return false;" href="#"><span
+class="lang en hidden">search</span></a> 
+
+<ul>
+<li><a href="/top-search.jsp?key=code"><span
+class="lang en hidden">search by code</span></a></li>
+
+<li><a href="/top-search.jsp?key=vehicle"><span
+class="lang en hidden">search by vehicle</span></a></li>
+
+<li><a href="/top-search.jsp?key=engine"><span
+class="lang en hidden">search by engine</span></a></li>
+</ul>
+</li>
+
+<li class="has-children"><a href="/page.jsp?key=about-us"><span
+class="lang en hidden">company</span></a> 
+
+<ul>
+<li><a href="/page.jsp?key=about-us"><span
+class="lang en hidden">about us</span></a></li>
+
+<li><a href="/page.jsp?key=where-to-find-us"><span
+class="lang en hidden">where to find us</span></a></li>
+
+<li><a href="/page.jsp?key=certifications"><span
+class="lang en hidden">certifications</span></a></li>
+</ul>
+</li>
+
+<li><a href="/resource.jsp"><span
+class="lang en hidden">catalogues</span></a></li>
+
+<li><a href="/events.jsp"><span class="lang en hidden">events &amp;
+exhibitions</span></a></li>
+
+<li><a class="dealers " href="/distributors.jsp"><span
+class="lang en hidden">dealers</span></a></li>
+
+<li><a href="/news.jsp"><span
+class="lang en hidden">news</span></a></li>
+
+<li><a href="/gallery.jsp"><span
+class="lang en hidden">gallery</span></a></li>
+
+<li class="has-children"><a
+href="/contact.jsp?key=contact-us"><span
+class="lang en hidden">contacts</span></a> 
+
+<ul>
+<li><a href="/contact.jsp?key=contact-us"><span
+class="lang en hidden">contact us</span></a></li>
+
+<li><a href="/contact.jsp?key=suggestions"><span
+class="lang en hidden">suggestions</span></a></li>
+</ul>
+</li>
+
+<li><a href="/contact.jsp?key=work-with-us"><span
+class="lang en hidden">work with us</span></a></li>
+</ul>
+</div>
+</div>
+
+<div id="mobile-navigation" class="hidden-md hidden-lg"><a href="#"
+class="mobile-menu-toggle" data-toggle="modal"
+data-target="#mainMenuModal"></a> 
+
+<div class="modal side-menu fade" id="mainMenuModal" tabindex="-1"
+role="dialog" aria-labelledby="mobileMenu" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close"
+data-dismiss="modal"><span aria-hidden="true">×</span><span
+class="sr-only">Close</span></button> 
+
+<h3 class="yellow modal-title" id="mobileMenu">Japanparts</h3>
+</div>
+
+<div class="modal-body">
+<div class="row">
+<div class="main-nav">
+<ul>
+<li class="has-children"><a onclick="return false;" href="#"><span
+class="lang en hidden">search</span></a> 
+
+<ul>
+<li><a href="/top-search.jsp?key=code"><span
+class="lang en hidden">search by code</span></a></li>
+
+<li><a href="/top-search.jsp?key=vehicle"><span
+class="lang en hidden">search by vehicle</span></a></li>
+
+<li><a href="/top-search.jsp?key=engine"><span
+class="lang en hidden">search by engine</span></a></li>
+</ul>
+</li>
+
+<li class="has-children"><a href="/page.jsp?key=about-us"><span
+class="lang en hidden">company</span></a> 
+
+<ul>
+<li><a href="/page.jsp?key=about-us"><span
+class="lang en hidden">about us</span></a></li>
+
+<li><a href="/page.jsp?key=where-to-find-us"><span
+class="lang en hidden">where to find us</span></a></li>
+
+<li><a href="/page.jsp?key=certifications"><span
+class="lang en hidden">certifications</span></a></li>
+</ul>
+</li>
+
+<li><a href="/resource.jsp"><span
+class="lang en hidden">catalogues</span></a></li>
+
+<li><a href="/events.jsp"><span class="lang en hidden">events &amp;
+exhibitions</span></a></li>
+
+<li><a class="dealers " href="/distributors.jsp"><span
+class="lang en hidden">dealers</span></a></li>
+
+<li><a href="/news.jsp"><span
+class="lang en hidden">news</span></a></li>
+
+<li><a href="/gallery.jsp"><span
+class="lang en hidden">gallery</span></a></li>
+
+<li class="has-children"><a
+href="/contact.jsp?key=contact-us"><span
+class="lang en hidden">contacts</span></a> 
+
+<ul>
+<li><a href="/contact.jsp?key=contact-us"><span
+class="lang en hidden">contact us</span></a></li>
+
+<li><a href="/contact.jsp?key=suggestions"><span
+class="lang en hidden">suggestions</span></a></li>
+</ul>
+</li>
+
+<li><a href="/contact.jsp?key=work-with-us"><span
+class="lang en hidden">work with us</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="modal-footer">
+<div class="row">
+<div class="top-nav">
+<ul>
+<li class="lang-selector"><a href="#"><span
+class="lang en hidden">language</span></a> 
+
+<ul class="lang">
+<li><a onclick="return setLanguage(this, 'it');" href="#"><img
+src="/img/flag/1-ita.png" width="20" height="14"
+alt="it" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'en');" href="#"><img
+src="/img/flag/2-eng.png" width="20" height="14"
+alt="en" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'fr');" href="#"><img
+src="/img/flag/3-fra.png" width="20" height="14"
+alt="fr" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'de');" href="#"><img
+src="/img/flag/4-deu.png" width="20" height="14"
+alt="de" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'es');" href="#"><img
+src="/img/flag/5-esp.png" width="20" height="14"
+alt="es" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'pt');" href="#"><img
+src="/img/flag/6-por.png" width="20" height="14"
+alt="pt" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'pt');" href="#"><img
+src="/img/flag/7-bra.png" width="20" height="14"
+alt="pt" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'pl');" href="#"><img
+src="/img/flag/8-pol.png" width="20" height="14"
+alt="pl" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'ru');" href="#"><img
+src="/img/flag/9-rus.png" width="20" height="14"
+alt="ru" /></a></li>
+
+<li><a onclick="return setLanguage(this, 'gr');" href="#"><img
+src="/img/flag/10-ell.png" width="20" height="14"
+alt="gr" /></a></li>
+</ul>
+</li>
+
+<li><a href="/search.jsp?search=all"><span
+class="lang en hidden">catalogue</span></a></li>
+
+<li><a href="#" data-toggle="modal" data-target="#loginModal"><span
+class="lang en hidden">reserved area</span>  </a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="loginModal" tabindex="-1" role="dialog"
+aria-labelledby="loginModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header"><button
+onclick="return removeReferer(this);" type="button" class="close"
+data-dismiss="modal"><span aria-hidden="true">×</span> <span
+class="sr-only">Close</span></button> 
+
+<h3 class="yellow modal-title" id="loginModalLabel"><span
+class="lang en hidden">reserved area access</span></h3>
+</div>
+
+<div class="modal-body"><input autocomplete="off"
+onkeyup="return checkLogin(event);" name="username" type="text"
+placeholder="username" value="" /> <input autocomplete="off"
+onkeyup="return checkLogin(event);" name="password" type="password"
+placeholder="password" value="" /></div>
+
+<div class="modal-footer">
+<div class="row">
+<div class="col-sm-12 col-md-7 text-left">
+<p class="login-checkbox"><input type="checkbox" name="save" />  
+<span class="lang en hidden">save login data</span></p>
+
+<div class="login login-success hidden"><span
+class="lang en hidden">Welcome</span></div>
+
+<div class="login login-error hidden"><span
+class="lang en hidden">Wrong username or password</span></div>
+</div>
+
+<div class="col-sm-12 col-md-5"><button name="cancel"
+onclick="return removeReferer(this);" type="button"
+class="btn btn-dark" data-dismiss="modal"><span
+class="lang en hidden">cancel</span></button> <button name="submit"
+onclick="return doLogin(this);" type="button"
+class="btn btn-yellow disabled"><span
+class="lang en hidden">login</span></button></div>
+
+<div class="col-md-12">
+<p style="padding-top: 10px;" class="text-left"><span
+class="lang en hidden">The page you are trying to access is
+<strong>reserved only to direct Japanparts distributors</strong>.
+If you have lost your username or password, please send an email to
+<a href="info@japanparts.it">info@japanparts.it</a></span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="content" class="item-content">
+<div class="container">
+<div class="row">
+<div class="search-bar">
+<div class="block block-search-input col-md-12 ">
+<form method="get" action="/item.jsp">
+<div class="row">
+<div class="col-lg-10 col-md-10"><input autocomplete="off"
+onkeyup="return toggleDisabled($(this));" type="text" name="code"
+data-de="Code" data-en="Code" data-fr="Code"
+data-it="codice japanparts / originale / concorrenza"
+data-es="Código" data-pt="Code" data-ru="код" data-pl="kod"
+data-gr="κωδικός"
+placeholder="codice japanparts / originale / concorrenza"
+class="lang text-uppercase" /></div>
+
+<div class="col-lg-2 col-md-2"><span
+class="lang en hidden">search</span></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="block-title-bar item-name">
+<h4><span class="yellow"><span class="lang en hidden">Spark plug
+DENSO</span></span> VKH20</h4>
+
+ <button onclick="window.print()" class="btn link-btn-yellow"><span
+class="lang en hidden">print</span> </button></div>
+
+<div class="block showcase gallery">
+<div id="gallery" class="desktop-gallery">
+<div class="gallery-item"><img class="mf"
+src="/get_item_image?image_name=JAPVKH20_2.jpg"
+width="275" /></div>
+
+<div class="gallery-item"><img class="mf"
+src="/get_item_image?image_name=JAPVKH20_3.jpg"
+width="275" /></div>
+</div>
+</div>
+
+<div class="item-details dark-table scroll-panel ">
+<div class="details-container-overflow">
+<table class="table-list">
+<tbody>
+<tr class="odd">
+<td><span class="lang en hidden">availability</span>:</td>
+<td><span data-toggle="popover" data-trigger="hover"
+data-html="true" data-content="data-content"><span
+class="&quot;lang" de="de">nicht verfügbar</span><span
+class="&quot;lang" en="en">not available</span><span
+class="&quot;lang" fr="fr">indisponible</span><span
+class="&quot;lang">non disponibile</span><span class="&quot;lang"
+es="es">no disponible</span><span class="&quot;lang" pt="pt">não
+disponível</span><span class="&quot;lang" ru="ru">нет в
+наличии</span><span class="&quot;lang"
+pl="pl">niedostępny</span><span class="&quot;lang" gr="gr">μη
+διαθέσιμο</span>" class="red-circle"&gt;</span> </td>
+</tr>
+
+<tr class="even">
+<td><span class="lang en hidden">list price</span>:</td>
+<td><a href="#" data-toggle="modal" data-target="#loginModal"></a>
+</td>
+</tr>
+
+<tr class="odd">
+<td width="60%"><span class="lang en hidden">Technical Information
+Number</span>:</td>
+<td><span class="lang en hidden">DENSO</span></td>
+</tr>
+
+<tr class="even">
+<td width="60%"><span class="lang en hidden">Electrode Gap
+[mm]</span>:</td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+
+<tr class="odd">
+<td><span class="lang en hidden">barcode</span>:</td>
+<td>042511056183</td>
+</tr>
+
+<tr class="even">
+<td><span class="lang en hidden">oem</span>:</td>
+<td id="oem-list">09482-00606<br />
+12120032137<br />
+12120032138<br />
+12120035915<br />
+12122158253<br />
+12127521112<br />
+12290PHM003<br />
+12291PHM003<br />
+12292PHM003<br />
+12293PHM003<br />
+1822A005<br />
+1822A075<br />
+22401-5M016<br />
+22401-8H 616<br />
+22401-AA580<br />
+22401-AA720<br />
+22401-AA750<br />
+41591303<br />
+41592303<br />
+41594503<br />
+99917022890<br />
+A0041591303<br />
+A0041592303<br />
+A0041594503<br />
+BY483-LFR6A<br />
+MN137919<br />
+SAB330DE2670<br />
+SAB330DE5150<br />
+SAB330NG7611</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="block-title-bar">
+<h4 class="yellow"><span
+class="lang en hidden">applications</span></h4>
+</div>
+
+<div class="block-table-list dark-table vehicle_applications">
+<table class="table-list">
+<tbody>
+<tr class="table-list-head">
+<th width="42%"><span
+class="lang en hidden">description</span></th>
+<th width="4%"><span class="lang en hidden">kw</span></th>
+<th width="4%"><span class="lang en hidden">ccm</span></th>
+<th width="4%"><span class="lang en hidden">cylinders</span></th>
+<th width="14%"><span class="lang en hidden">from</span>/<span
+class="lang en hidden">to</span></th>
+<th width="20%"><span class="lang en hidden">engine
+code</span></th>
+<th width="10%"><span class="lang en hidden">fuel</span></th>
+<th width="2%"> </th>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 20494, 301390);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20494">AUDI A4 Avant (8ED, B7) 2.0
+TFSI</a> </td>
+<td class="text-right">125</td>
+<td class="text-right">1984</td>
+<td class="text-right">4</td>
+<td>10-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 20494);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">07.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">B5254T4</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">P80SW</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18560, 301317);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18560">BMW 1 (E81) 130i</a> </td>
+<td class="text-right">195</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2005/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 30557, 301433);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30557">BMW 1 (E81) 130i</a> </td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>03-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 25482, 301415);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25482">BMW 1 Cabriolet (E88) 125i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>03-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 25484, 301416);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25484">BMW 1 Coupé (E82) 125i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>10-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18450, 301313);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18450">BMW 3 (E90) 325i</a> </td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>01-2005/</td>
+<td>N52B25C</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18450);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19101, 301342);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19101">BMW 3 (E90) 325xi</a> </td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>01-2005/</td>
+<td>N52B25C</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19101);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">From construction year</span></td>
+<td><span class="lang en hidden">10.2005</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B25C/N52NB25A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E90</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18451, 301314);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18451">BMW 3 (E90) 330i</a> </td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>01-2005/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18451);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19102, 301343);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19102">BMW 3 (E90) 330xi</a> </td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>01-2005/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19102);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">From construction year</span></td>
+<td><span class="lang en hidden">10.2005</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B30A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E90</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,2</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 22905, 301396);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=22905">BMW 3 Cabriolet (E93) 325i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>03-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 20117, 301376);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20117">BMW 3 Coupé (E92) 325i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>09-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20118, 301377);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20118">BMW 3 Coupé (E92) 325xi</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>09-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 20120, 301378);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20120">BMW 3 Coupé (E92) 330i</a>
+</td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20122, 301379);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20122">BMW 3 Coupé (E92) 330xi</a>
+</td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18759, 301326);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18759">BMW 3 Touring (E91) 325i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>09-2005/</td>
+<td>N52B25C</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18759);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B25C/N52NB25A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E91</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19104, 301344);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19104">BMW 3 Touring (E91) 325xi</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>09-2005/</td>
+<td>N52B25C</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18760, 301327);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18760">BMW 3 Touring (E91) 330i</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2005/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18760);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B30A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E91</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19105, 301345);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19105">BMW 3 Touring (E91) 330xi</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2005/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19013, 301332);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19013">BMW 5 (E60) 523i</a> </td>
+<td class="text-right">130</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td>N52B25A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19013);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19018, 301334);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19018">BMW 5 (E60) 525i</a> </td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td>N52B25A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19095, 301338);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19095">BMW 5 (E60) 525xi</a> </td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19007, 301330);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19007">BMW 5 (E60) 530i</a> </td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19007);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B30A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E60</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 22885, 301394);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=22885">BMW 5 (E60) 530i</a> </td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>01-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 30644, 301434);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30644">BMW 5 (E60) 530i xDrive</a>
+</td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19096, 301339);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19096">BMW 5 (E60) 530xi</a> </td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19096);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B30A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E60</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 33101, 301462);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33101">BMW 5 (F10, F18) 523i</a>
+</td>
+<td class="text-right">150</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>03-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 33103, 301463);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33103">BMW 5 (F10, F18) 528i</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>03-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 32163, 301449);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32163">BMW 5 Gran Turismo (F07)
+550i</a> </td>
+<td class="text-right">300</td>
+<td class="text-right">4395</td>
+<td class="text-right">8</td>
+<td>10-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 33093, 301460);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33093">BMW 5 Gran Turismo (F07) 550i
+xDrive</a> </td>
+<td class="text-right">300</td>
+<td class="text-right">4395</td>
+<td class="text-right">8</td>
+<td>09-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19015, 301333);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19015">BMW 5 Touring (E61) 523i</a>
+</td>
+<td class="text-right">130</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td>N52B25A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19015);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19019, 301335);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19019">BMW 5 Touring (E61) 525i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td>N52B25A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19099, 301340);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19099">BMW 5 Touring (E61) 525xi</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19009, 301331);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19009">BMW 5 Touring (E61) 530i</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19009);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B30A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E61</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 22894, 301395);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=22894">BMW 5 Touring (E61) 530i</a>
+</td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>01-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 30652, 301435);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30652">BMW 5 Touring (E61) 530i
+xDrive</a> </td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19100, 301341);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19100">BMW 5 Touring (E61) 530xi</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>07-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19100);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">N52B30A</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">E61</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 33110, 301464);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33110">BMW 5 Touring (F11) 523i</a>
+</td>
+<td class="text-right">150</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 33112, 301465);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33112">BMW 5 Touring (F11) 528i</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18324, 301305);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18324">BMW 6 (E63) 630i</a> </td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2004/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18324);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 25740, 301417);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25740">BMW 6 (E63) 630i</a> </td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>07-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18325, 301306);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18325">BMW 6 Cabriolet (E64) 630i</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2004/</td>
+<td>N52B30A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18325);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 25745, 301418);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25745">BMW 6 Cabriolet (E64) 630i</a>
+</td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>07-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19619, 301365);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19619">BMW 7 (E65, E66, E67) 730
+i,Li</a> </td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>03-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 33099, 301461);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33099">BMW X1 (E84) xDrive25i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>01-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32169, 301450);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32169">BMW X1 (E84) xDrive28i</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>10-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20104, 301375);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20104">BMW X3 (E83) 2.5 si</a> </td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>09-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32065, 301446);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32065">BMW X3 (E83) xDrive25i</a>
+</td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>09-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 32067, 301447);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32067">BMW X3 (E83) xDrive30i</a>
+</td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 37869, 301482);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=37869">BMW X3 (F25) xDrive 28i</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>04-2011/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 32071, 301448);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32071">BMW X5 (E70) xDrive30i</a>
+</td>
+<td class="text-right">200</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>09-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19620, 301366);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19620">BMW Z4 (E85) 2.5 i</a> </td>
+<td class="text-right">130</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>01-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19621, 301367);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19621">BMW Z4 (E85) 2.5 si</a> </td>
+<td class="text-right">160</td>
+<td class="text-right">2497</td>
+<td class="text-right">6</td>
+<td>01-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19622, 301368);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19622">BMW Z4 (E85) 3.0 si</a> </td>
+<td class="text-right">195</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>01-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19479, 301359);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19479">BMW Z4 Coupé (E86) 3.0 si</a>
+</td>
+<td class="text-right">195</td>
+<td class="text-right">2996</td>
+<td class="text-right">6</td>
+<td>03-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 22918, 301397);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=22918">CADILLAC BLS 2.8 T</a> </td>
+<td class="text-right">188</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>04-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 37068, 301479);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=37068">CADILLAC BLS Wagon 2.8 T</a>
+</td>
+<td class="text-right">188</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>12-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18596, 301322);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18596">CADILLAC CTS 2.8</a> </td>
+<td class="text-right">158</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>03-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18584, 301320);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18584">CITROEN C1 (PM_, PN_) 1.0</a>
+</td>
+<td class="text-right">50</td>
+<td class="text-right">998</td>
+<td class="text-right">3</td>
+<td>06-2005/</td>
+<td>1KR-FE</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18584);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17332, 301278);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17332">CITROEN C2 (JM_) 1.6</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>09-2003/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17332);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17276, 301276);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17276">CITROEN C3 Pluriel (HB_)
+1.6</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>05-2003/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17276);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18340, 301309);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18340">CITROEN C4 Coupé (LA_) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>11-2004/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18340);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18342, 301310);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18342">CITROEN C4 Coupé (LA_) 2.0
+16V</a> </td>
+<td class="text-right">130</td>
+<td class="text-right">1997</td>
+<td class="text-right">4</td>
+<td>11-2004/</td>
+<td>EW10J4S</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18342);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18333, 301307);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18333">CITROEN C4 I (LC_) 1.6 16V</a>
+</td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>11-2004/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18333);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18335, 301308);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18335">CITROEN C4 I (LC_) 2.0 16V</a>
+</td>
+<td class="text-right">103</td>
+<td class="text-right">1997</td>
+<td class="text-right">4</td>
+<td>11-2004/</td>
+<td>EW10A</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18335);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 15599, 301248);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15599">CITROEN XSARA (N1) 1.6 16V</a>
+</td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>09-2000/03-2005</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 15599);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">10.2004</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 15601, 301249);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15601">CITROEN XSARA Break (N2) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>09-2000/08-2005</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 15601);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 15638, 301250);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15638">CITROEN XSARA Coupe (N0) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>09-2000/03-2005</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 15638);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">10.2004</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 22481, 301393);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=22481">DAEWOO MAGNUS 2.0</a> </td>
+<td class="text-right">96</td>
+<td class="text-right">1998</td>
+<td class="text-right">4</td>
+<td>07-1999/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 22481);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">From construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 24055, 301409);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=24055">DAIHATSU CUORE VIII 1.0</a>
+</td>
+<td class="text-right">51</td>
+<td class="text-right">998</td>
+<td class="text-right">3</td>
+<td>04-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18482, 301315);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18482">DAIHATSU SIRION (M3_) 1.0</a>
+</td>
+<td class="text-right">51</td>
+<td class="text-right">998</td>
+<td class="text-right">3</td>
+<td>01-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18482);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">1KR-FE</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 22957, 301398);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=22957">DAIHATSU SIRION (M3_) 1.0 DVVT
+4WD</a> </td>
+<td class="text-right">51</td>
+<td class="text-right">998</td>
+<td class="text-right">3</td>
+<td>04-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 31374, 301439);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=31374">FORD FOCUS II (DA_) 2.5 RS</a>
+</td>
+<td class="text-right">224</td>
+<td class="text-right">2522</td>
+<td class="text-right">5</td>
+<td>01-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 31546, 301442);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=31546">FORD KUGA I 2.5 4x4</a> </td>
+<td class="text-right">147</td>
+<td class="text-right">2522</td>
+<td class="text-right">5</td>
+<td>03-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19701, 301369);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19701">FORD S-MAX (WA6) 2.5 ST</a>
+</td>
+<td class="text-right">162</td>
+<td class="text-right">2521</td>
+<td class="text-right">5</td>
+<td>05-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 36550, 301477);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=36550">HONDA CIVIC VIII Tre volumi
+(FD, FA) 1.3</a> </td>
+<td class="text-right">85</td>
+<td class="text-right">1339</td>
+<td class="text-right">4</td>
+<td>02-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19480, 301360);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19480">HONDA CIVIC VIII Tre volumi
+(FD, FA) 1.3</a> </td>
+<td class="text-right">70</td>
+<td class="text-right">1339</td>
+<td class="text-right">4</td>
+<td>01-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 14410, 301243);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=14410">HONDA INSIGHT (ZE) 1.0</a>
+</td>
+<td class="text-right">56</td>
+<td class="text-right">995</td>
+<td class="text-right">3</td>
+<td>04-2000/12-2006</td>
+<td>ECA1</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 36073, 301472);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=36073">HONDA INSIGHT (ZE) 1.0
+Vtec</a> </td>
+<td class="text-right">50</td>
+<td class="text-right">995</td>
+<td class="text-right">3</td>
+<td>04-2000/10-2004</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19563, 301364);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19563">HYUNDAI ACCENT III (MC) 1.4
+GL</a> </td>
+<td class="text-right">71</td>
+<td class="text-right">1399</td>
+<td class="text-right">4</td>
+<td>11-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19563);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">B5254T3</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">P80MC</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19747, 301370);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19747">JEEP COMPASS (MK49) 2.0 CRD
+4x4</a> </td>
+<td class="text-right">103</td>
+<td class="text-right">1968</td>
+<td class="text-right">4</td>
+<td>09-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">diesel</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19747);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 30850, 301438);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30850">LANCIA AURELIA Cabriolet
+2.5</a> </td>
+<td class="text-right">81</td>
+<td class="text-right">2451</td>
+<td class="text-right">6</td>
+<td>01-1956/12-1958</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 30850);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18773, 301328);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18773">LEXUS GS (GRS19_, UZS19_,
+GWS19_) 300</a> </td>
+<td class="text-right">183</td>
+<td class="text-right">2995</td>
+<td class="text-right">6</td>
+<td>04-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18773);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">3GR-FE</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19760, 301371);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19760">LEXUS LS (UCF30) 460</a> </td>
+<td class="text-right">280</td>
+<td class="text-right">4608</td>
+<td class="text-right">8</td>
+<td>04-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19760);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">From construction year</span></td>
+<td><span class="lang en hidden">08.2006</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">1UR-FE</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">1URFSE</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 33702, 301466);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33702">LEXUS LS (UVF4_, USF4_) 460
+AWD</a> </td>
+<td class="text-right">270</td>
+<td class="text-right">4608</td>
+<td class="text-right">8</td>
+<td>12-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 33711, 301467);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=33711">LEXUS LX (URJ201) 570 4x4</a>
+</td>
+<td class="text-right">270</td>
+<td class="text-right">5663</td>
+<td class="text-right">8</td>
+<td>04-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 24498, 301410);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=24498">MAZDA 626 III Hatchback (GD)
+2.0 4x4</a> </td>
+<td class="text-right">110</td>
+<td class="text-right">1998</td>
+<td class="text-right">4</td>
+<td>08-1989/07-1991</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 24498);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 41443, 301485);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=41443">MAZDA 626 IV (GE) 2.0 D</a>
+</td>
+<td class="text-right">56</td>
+<td class="text-right">1998</td>
+<td class="text-right">4</td>
+<td>05-1994/06-1997</td>
+<td> </td>
+<td><span class="lang en hidden">diesel</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 41443);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19363, 301358);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19363">MAZDA E3000D 3.0 TAB</a> </td>
+<td class="text-right"> </td>
+<td class="text-right"> </td>
+<td class="text-right"> </td>
+<td>01-1977/</td>
+<td> </td>
+<td><span class="lang en hidden">diesel</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19363);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">07.2008</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,0</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 16714, 301260);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16714">MERCEDES-BENZ CLASSE C (W203)
+C 180 Kompressor (203.046)</a> </td>
+<td class="text-right">105</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.946</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17376, 301279);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17376">MERCEDES-BENZ CLASSE C (W203)
+C 200 CGI Kompressor (203.043)</a> </td>
+<td class="text-right">125</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>07-2003/</td>
+<td>M 271.942</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 16715, 301261);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16715">MERCEDES-BENZ CLASSE C (W203)
+C 200 Kompressor (203.042)</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.940</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17861, 301294);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17861">MERCEDES-BENZ CLASSE C (W203)
+C 230 Kompressor (203.040)</a> </td>
+<td class="text-right">141</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>02-2004/</td>
+<td>M 271.948</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18882, 301329);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18882">MERCEDES-BENZ CLASSE C Coupe
+(CL203) C 160 Kompressor (203.730)</a> </td>
+<td class="text-right">90</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.921</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16718, 301264);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16718">MERCEDES-BENZ CLASSE C Coupe
+(CL203) C 180 Kompressor (203.746)</a> </td>
+<td class="text-right">105</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.946</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17131, 301271);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17131">MERCEDES-BENZ CLASSE C Coupe
+(CL203) C 200 CGI Kompressor (203.743)</a> </td>
+<td class="text-right">125</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>07-2003/</td>
+<td>M 271.942</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16719, 301265);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16719">MERCEDES-BENZ CLASSE C Coupe
+(CL203) C 200 Kompressor (203.742)</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.940</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 16720, 301266);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16720">MERCEDES-BENZ CLASSE C Coupe
+(CL203) C 230 Kompressor (203.740)</a> </td>
+<td class="text-right">141</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.948</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16716, 301262);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16716">MERCEDES-BENZ CLASSE C T-Model
+(S203) C 180 Kompressor (203.246)</a> </td>
+<td class="text-right">105</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.946</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17377, 301280);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17377">MERCEDES-BENZ CLASSE C T-Model
+(S203) C 200 CGI Kompressor (203.243)</a> </td>
+<td class="text-right">125</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>07-2003/</td>
+<td>M 271.942</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16717, 301263);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16717">MERCEDES-BENZ CLASSE C T-Model
+(S203) C 200 Kompressor (203.242)</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2002/</td>
+<td>M 271.940</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17862, 301295);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17862">MERCEDES-BENZ CLASSE C T-Model
+(S203) C 230 Kompressor (203.240)</a> </td>
+<td class="text-right">141</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>02-2004/</td>
+<td>M 271.948</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 26423, 301422);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=26423">MERCEDES-BENZ CLASSE CLC
+(CL203) CLC 180 Kompressor (203.746)</a> </td>
+<td class="text-right">105</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>05-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 20223, 301380);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20223">MERCEDES-BENZ CLASSE E (W211)
+E 200 Kompressor (211.041)</a> </td>
+<td class="text-right">135</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>04-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17128, 301270);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17128">MERCEDES-BENZ CLASSE E (W211)
+E 200 Kompressor (211.042)</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>11-2002/</td>
+<td>M 271.941</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 20225, 301381);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20225">MERCEDES-BENZ CLASSE E (W211)
+E 500 (211.072)</a> </td>
+<td class="text-right">285</td>
+<td class="text-right">5461</td>
+<td class="text-right">8</td>
+<td>04-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17000, 301269);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17000">MERCEDES-BENZ CLASSE E (W211)
+E 55 AMG Kompressor (211.076)</a> </td>
+<td class="text-right">350</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>10-2002/</td>
+<td>M 113.990</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17964, 301298);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17964">MERCEDES-BENZ CLASSE E (W211)
+E200 NGT</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>03-2004/</td>
+<td>M 271.941</td>
+<td> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20229, 301382);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20229">MERCEDES-BENZ CLASSE E T-Model
+(S211) E 200 Kompressor (211.241)</a> </td>
+<td class="text-right">135</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>04-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17164, 301273);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17164">MERCEDES-BENZ CLASSE E T-Model
+(S211) E 200 T Kompressor (211.242)</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>03-2003/</td>
+<td>M 271.941</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20231, 301383);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20231">MERCEDES-BENZ CLASSE E T-Model
+(S211) E 500 T (211.272)</a> </td>
+<td class="text-right">285</td>
+<td class="text-right">5461</td>
+<td class="text-right">8</td>
+<td>04-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17489, 301283);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17489">MERCEDES-BENZ CLASSE E T-Model
+(S211) E 55 T AMG Kompressor (211.276)</a> </td>
+<td class="text-right">350</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>07-2003/</td>
+<td>M 113.990</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16977, 301268);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16977">MERCEDES-BENZ CLASSE S Coupé
+(C215) CL 55 AMG Kompressor (215.374)</a> </td>
+<td class="text-right">368</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>06-2002/03-2006</td>
+<td>M 113.991</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 16659, 301258);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16659">MERCEDES-BENZ CLK (C209) 200
+CGI (209.343)</a> </td>
+<td class="text-right">125</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>07-2003/</td>
+<td>M 271.942</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16658, 301257);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16658">MERCEDES-BENZ CLK (C209) 200
+Kompressor (209.342)</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>09-2002/</td>
+<td>M 271.940</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17187, 301274);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17187">MERCEDES-BENZ CLK Cabriolet
+(A209) 200 Kompressor (209.442)</a> </td>
+<td class="text-right">120</td>
+<td class="text-right">1796</td>
+<td class="text-right">4</td>
+<td>02-2003/</td>
+<td>M 271.940</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18233, 301304);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18233">MERCEDES-BENZ CLS (C219) CLS
+55 AMG (219.376)</a> </td>
+<td class="text-right">350</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>01-2005/</td>
+<td>M 113.990</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 16258, 301253);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16258">MERCEDES-BENZ SL (R230) 55 AMG
+(230.474)</a> </td>
+<td class="text-right">350</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>10-2001/06-2002</td>
+<td>M 113.992</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17967, 301299);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17967">MERCEDES-BENZ SLR (R199) 5.4
+(199.376)</a> </td>
+<td class="text-right">460</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>04-2004/</td>
+<td>M 155.980</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 20236, 301384);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20236">MERCEDES-BENZ SLR (R199) 5.4
+722 Edition</a> </td>
+<td class="text-right">478</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>10-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 30259, 301431);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30259">MERCEDES-BENZ SLR ROADSTER
+(R199) 5.4</a> </td>
+<td class="text-right">478</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>10-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 28884, 301426);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=28884">MERCEDES-BENZ SLR ROADSTER
+(R199) 5.4</a> </td>
+<td class="text-right">460</td>
+<td class="text-right">5439</td>
+<td class="text-right">8</td>
+<td>04-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19811, 301372);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19811">MERCEDES-BENZ SPRINTER 3,5-t
+Autobus (906) 311 CDI</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">2148</td>
+<td class="text-right">4</td>
+<td>06-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">diesel</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19811);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19812, 301373);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19812">MERCEDES-BENZ SPRINTER 3,5-t
+Autobus (906) 315 CDI</a> </td>
+<td class="text-right">110</td>
+<td class="text-right">2148</td>
+<td class="text-right">4</td>
+<td>06-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">diesel</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19812);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">B5254T3</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">MK</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19525, 301361);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19525">MITSUBISHI COLT CZC Cabriolet
+(RG) 1.5</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1499</td>
+<td class="text-right">4</td>
+<td>05-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19525);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,0</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18036, 301303);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18036">MITSUBISHI COLT VI (Z3_A,
+Z2_A) 1.1</a> </td>
+<td class="text-right">55</td>
+<td class="text-right">1124</td>
+<td class="text-right">3</td>
+<td>10-2004/</td>
+<td>3A91</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18036);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,0</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18034, 301301);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18034">MITSUBISHI COLT VI (Z3_A,
+Z2_A) 1.3</a> </td>
+<td class="text-right">70</td>
+<td class="text-right">1332</td>
+<td class="text-right">4</td>
+<td>06-2004/</td>
+<td>4A90</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18034);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">From construction year</span></td>
+<td><span class="lang en hidden">01.2009</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,0</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18035, 301302);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18035">MITSUBISHI COLT VI (Z3_A,
+Z2_A) 1.5</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1499</td>
+<td class="text-right">4</td>
+<td>06-2004/</td>
+<td>4A91</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18035);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,0</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 24552, 301411);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=24552">MITSUBISHI GRANDIS (NA_W)
+2.4</a> </td>
+<td class="text-right">130</td>
+<td class="text-right">2378</td>
+<td class="text-right">4</td>
+<td>04-2004/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18023, 301300);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18023">MITSUBISHI GRANDIS (NA_W)
+2.4</a> </td>
+<td class="text-right">121</td>
+<td class="text-right">2378</td>
+<td class="text-right">4</td>
+<td>04-2004/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18023);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">4G69</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">NA4W</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,8</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 24577, 301412);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=24577">MITSUBISHI LANCER SPORTBACK
+(CX_A) 1.5</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1499</td>
+<td class="text-right">4</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 24581, 301413);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=24581">MITSUBISHI LANCER Tre volumi
+(CY/Z_A) 1.5</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1499</td>
+<td class="text-right">4</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18739, 301325);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18739">MITSUBISHI OUTLANDER I (CU_W)
+2.4 4WD</a> </td>
+<td class="text-right">119</td>
+<td class="text-right">2378</td>
+<td class="text-right">4</td>
+<td>05-2003/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17400, 301281);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17400">MITSUBISHI OUTLANDER I (CU_W)
+2.4 4WD</a> </td>
+<td class="text-right">118</td>
+<td class="text-right">2378</td>
+<td class="text-right">4</td>
+<td>11-2003/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18738, 301324);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18738">MITSUBISHI OUTLANDER I (CU_W)
+2.4 4WD</a> </td>
+<td class="text-right">102</td>
+<td class="text-right">2351</td>
+<td class="text-right">4</td>
+<td>05-2003/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 21461, 301392);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=21461">MITSUBISHI OUTLANDER I (CU_W)
+2.4 HDD Mivec</a> </td>
+<td class="text-right">118</td>
+<td class="text-right">2378</td>
+<td class="text-right">4</td>
+<td>07-2003/09-2006</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 27661, 301423);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=27661">OPEL INSIGNIA 2.8 V6 Turbo
+4x4</a> </td>
+<td class="text-right">191</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>07-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32850, 301453);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32850">OPEL INSIGNIA 2.8 V6 Turbo 4x4
+OPC</a> </td>
+<td class="text-right">239</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>07-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 30147, 301430);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30147">OPEL INSIGNIA Station wagon
+2.8 V6 Turbo 4x4</a> </td>
+<td class="text-right">191</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>10-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32861, 301455);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32861">OPEL INSIGNIA Station wagon
+2.8 V6 Turbo 4x4 OPC</a> </td>
+<td class="text-right">239</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>07-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 27675, 301425);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=27675">OPEL INSIGNIA Tre volumi 2.8
+V6 Turbo 4x4</a> </td>
+<td class="text-right">191</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>07-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32851, 301454);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32851">OPEL INSIGNIA Tre volumi 2.8
+V6 Turbo 4x4 OPC</a> </td>
+<td class="text-right">239</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>07-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 21452, 301391);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=21452">OPEL SIGNUM 2.8 V6 Turbo</a>
+</td>
+<td class="text-right">184</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>01-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19092, 301337);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19092">OPEL SIGNUM 2.8 V6 Turbo</a>
+</td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>09-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19092);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20277, 301385);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20277">OPEL VECTRA C 2.8 V6 Turbo</a>
+</td>
+<td class="text-right">184</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19137, 301347);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19137">OPEL VECTRA C 2.8 V6 Turbo</a>
+</td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19138, 301348);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19138">OPEL VECTRA C 2.8 V6 Turbo</a>
+</td>
+<td class="text-right">188</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19140, 301349);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19140">OPEL VECTRA C GTS 2.8 V6
+Turbo</a> </td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19141, 301350);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19141">OPEL VECTRA C GTS 2.8 V6
+Turbo</a> </td>
+<td class="text-right">188</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 20278, 301386);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20278">OPEL VECTRA C GTS 2.8 V6
+Turbo</a> </td>
+<td class="text-right">206</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20279, 301387);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20279">OPEL VECTRA C GTS 2.8 V6
+Turbo</a> </td>
+<td class="text-right">184</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19143, 301351);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19143">OPEL VECTRA C Station wagon
+2.8 V6 Turbo</a> </td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 23341, 301399);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23341">OPEL VECTRA C Station wagon
+2.8 V6 Turbo</a> </td>
+<td class="text-right">206</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>01-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19144, 301352);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19144">OPEL VECTRA C Station wagon
+2.8 V6 Turbo</a> </td>
+<td class="text-right">188</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 29318, 301427);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=29318">OPEL VECTRA C Station wagon
+2.8 V6 Turbo</a> </td>
+<td class="text-right">184</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>01-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18432, 301312);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18432">PEUGEOT 1007 (KM_) 1.6 16V</a>
+</td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>04-2005/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18432);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">TU 5JP4 (NFU)</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18586, 301321);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18586">PEUGEOT 107 1.0</a> </td>
+<td class="text-right">50</td>
+<td class="text-right">998</td>
+<td class="text-right">3</td>
+<td>06-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18586);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 15705, 301252);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15705">PEUGEOT 206 2 volumi /Coda
+spiovente (2A/C) 1.6 16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>12-2000/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 15705);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">TU7JP (NFU)</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17295, 301277);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17295">PEUGEOT 206 2 volumi /Coda
+spiovente (2A/C) 2.0 RC</a> </td>
+<td class="text-right">130</td>
+<td class="text-right">1997</td>
+<td class="text-right">4</td>
+<td>07-2003/</td>
+<td>RFK (EW10J4S)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17295);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 15704, 301251);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15704">PEUGEOT 206 CC (2D) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>09-2000/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 15704);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">TU5JP4 (NFU)</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16676, 301259);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16676">PEUGEOT 206 SW (2E/K) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>07-2002/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 16676);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">TU5JP4 (NFU)</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18638, 301323);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18638">PEUGEOT 307 (3A/C) 2.0 16V</a>
+</td>
+<td class="text-right">103</td>
+<td class="text-right">1997</td>
+<td class="text-right">4</td>
+<td>03-2005/</td>
+<td>RFJ (EW10A)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18638);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">From construction year</span></td>
+<td><span class="lang en hidden">07.2005</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17914, 301297);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17914">PEUGEOT 307 Break (3E) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>03-2002/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17914);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2005</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18550, 301316);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18550">PEUGEOT 307 CC (3B) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>03-2005/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 18550);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17403, 301282);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17403">PEUGEOT 307 CC (3B) 2.0
+16V</a> </td>
+<td class="text-right">130</td>
+<td class="text-right">1997</td>
+<td class="text-right">4</td>
+<td>10-2003/</td>
+<td>RFK (EW10J4S)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17403);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">EW10J4S</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">3BRFKC</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 16612, 301256);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16612">PEUGEOT 307 SW (3H) 1.6
+16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>03-2002/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 16612);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">02.2005</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16281, 301254);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16281">PEUGEOT PARTNER Combispace
+(5F) 1.6 16V</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1587</td>
+<td class="text-right">4</td>
+<td>07-2001/</td>
+<td>NFU (TU5JP4)</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 16281);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,9</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 25806, 301419);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25806">PORSCHE 911 (997) 3.6
+Carrera</a> </td>
+<td class="text-right">254</td>
+<td class="text-right">3596</td>
+<td class="text-right">6</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 30700, 301436);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30700">PORSCHE 911 (997) 3.6 Carrera
+4</a> </td>
+<td class="text-right">254</td>
+<td class="text-right">3596</td>
+<td class="text-right">6</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 25809, 301420);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25809">PORSCHE 911 Cabriolet (997)
+3.6 Carrera</a> </td>
+<td class="text-right">254</td>
+<td class="text-right">3596</td>
+<td class="text-right">6</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 30702, 301437);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30702">PORSCHE 911 Cabriolet (997)
+3.6 Carrera 4</a> </td>
+<td class="text-right">254</td>
+<td class="text-right">3596</td>
+<td class="text-right">6</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 25812, 301421);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25812">PORSCHE 911 Targa (997) 3.6
+Carrera 4</a> </td>
+<td class="text-right">254</td>
+<td class="text-right">3596</td>
+<td class="text-right">6</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 32777, 301452);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32777">PORSCHE CAYENNE (955) Turbo S
+4.8</a> </td>
+<td class="text-right">404</td>
+<td class="text-right">4806</td>
+<td class="text-right">8</td>
+<td>08-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32776, 301451);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32776">PORSCHE CAYENNE (955) Turbo S
+4.8</a> </td>
+<td class="text-right">397</td>
+<td class="text-right">4806</td>
+<td class="text-right">8</td>
+<td>02-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 32887, 301456);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32887">PORSCHE PANAMERA 4.8 Turbo</a>
+</td>
+<td class="text-right">368</td>
+<td class="text-right">4806</td>
+<td class="text-right">8</td>
+<td>09-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 15575, 301247);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15575">RENAULT CLIO II (BB0/1/2_,
+CB0/1/2_) 3.0 V6 Sport (CB1A)</a> </td>
+<td class="text-right">166</td>
+<td class="text-right">2946</td>
+<td class="text-right">6</td>
+<td>11-2000/12-2002</td>
+<td>L7X 760</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17138, 301272);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17138">RENAULT CLIO II (BB0/1/2_,
+CB0/1/2_) 3.0 V6 Sport (CB1H, CB2S)</a> </td>
+<td class="text-right">187</td>
+<td class="text-right">2946</td>
+<td class="text-right">6</td>
+<td>12-2002/</td>
+<td>L7X 762</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 15475, 301244);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15475">RENAULT LAGUNA II (BG0/1_) 3.0
+V6 24V (BG0D)</a> </td>
+<td class="text-right">152</td>
+<td class="text-right">2946</td>
+<td class="text-right">6</td>
+<td>03-2001/</td>
+<td>L7X 731</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 15479, 301245);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15479">RENAULT LAGUNA II Grandtour
+(KG0/1_) 3.0 V6 24V (KG0D)</a> </td>
+<td class="text-right">152</td>
+<td class="text-right">2946</td>
+<td class="text-right">6</td>
+<td>03-2001/</td>
+<td>L7X 731</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19057, 301336);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19057">SAAB 9-3 (YS3F) 2.8 Turbo
+V6</a> </td>
+<td class="text-right">184</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>03-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19933, 301374);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19933">SAAB 9-3 Cabriolet (YS3F) 2.8
+Turbo V6</a> </td>
+<td class="text-right">184</td>
+<td class="text-right">2796</td>
+<td class="text-right">6</td>
+<td>02-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18571, 301318);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18571">SAAB 9-3 Station wagon (YS3F)
+2.8 Turbo V6</a> </td>
+<td class="text-right">184</td>
+<td class="text-right">2796</td>
+<td class="text-right">6</td>
+<td>03-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 34534, 301468);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=34534">SAAB 9-5 (YS3G) 2.8 T V6
+XWD</a> </td>
+<td class="text-right">221</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>05-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19529, 301362);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19529">SMART FORFOUR (454) 1.1</a>
+</td>
+<td class="text-right">47</td>
+<td class="text-right">1124</td>
+<td class="text-right">3</td>
+<td>02-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17747, 301287);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17747">SMART FORFOUR (454) 1.1
+(454.030)</a> </td>
+<td class="text-right">55</td>
+<td class="text-right">1124</td>
+<td class="text-right">3</td>
+<td>01-2004/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17747);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17748, 301288);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17748">SMART FORFOUR (454) 1.3
+(454.031)</a> </td>
+<td class="text-right">70</td>
+<td class="text-right">1332</td>
+<td class="text-right">4</td>
+<td>01-2004/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17748);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 23453, 301400);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23453">SMART FORFOUR (454) 1.5</a>
+</td>
+<td class="text-right">90</td>
+<td class="text-right">1499</td>
+<td class="text-right">4</td>
+<td>01-2004/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 23453);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17749, 301289);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17749">SMART FORFOUR (454) 1.5
+(454.032)</a> </td>
+<td class="text-right">80</td>
+<td class="text-right">1499</td>
+<td class="text-right">4</td>
+<td>01-2004/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17749);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 18576, 301319);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18576">SMART FORFOUR (454) 1.5 BRABUS
+(454.034)</a> </td>
+<td class="text-right">130</td>
+<td class="text-right">1468</td>
+<td class="text-right">4</td>
+<td>05-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 18429, 301311);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=18429">SUBARU FORESTER (SG) 2.5</a>
+</td>
+<td class="text-right">155</td>
+<td class="text-right">2457</td>
+<td class="text-right">4</td>
+<td>12-2003/</td>
+<td>EJ25</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19157, 301355);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19157">SUBARU FORESTER (SG) 2.5
+XT</a> </td>
+<td class="text-right">169</td>
+<td class="text-right">2457</td>
+<td class="text-right">4</td>
+<td>09-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 31380, 301440);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=31380">SUBARU FORESTER (SH) 2.0</a>
+</td>
+<td class="text-right">110</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>01-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 37539, 301480);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=37539">SUBARU FORESTER (SH) 2.5</a>
+</td>
+<td class="text-right">169</td>
+<td class="text-right">2457</td>
+<td class="text-right">4</td>
+<td>06-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 37541, 301481);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=37541">SUBARU FORESTER (SH) 2.5</a>
+</td>
+<td class="text-right">126</td>
+<td class="text-right">2457</td>
+<td class="text-right">4</td>
+<td>01-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 25402, 301414);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=25402">SUBARU IMPREZA 2 volumi /Coda
+spiovente (GR, GH, G3) 1.5</a> </td>
+<td class="text-right">79</td>
+<td class="text-right">1498</td>
+<td class="text-right">4</td>
+<td>02-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 30435, 301432);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30435">SUBARU IMPREZA 2 volumi /Coda
+spiovente (GR, GH, G3) 1.5 4 ruote motrici</a> </td>
+<td class="text-right">79</td>
+<td class="text-right">1498</td>
+<td class="text-right">4</td>
+<td>02-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20347, 301389);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20347">SUBARU IMPREZA Station wagon
+(GD, GG) 1.5</a> </td>
+<td class="text-right">77</td>
+<td class="text-right">1498</td>
+<td class="text-right">4</td>
+<td>05-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19154, 301354);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19154">SUBARU IMPREZA Station wagon
+(GD, GG) 2.0 R</a> </td>
+<td class="text-right">118</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>09-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 20346, 301388);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=20346">SUBARU IMPREZA Tre volumi (GD,
+GG) 1.5</a> </td>
+<td class="text-right">77</td>
+<td class="text-right">1498</td>
+<td class="text-right">4</td>
+<td>05-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19151, 301353);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19151">SUBARU IMPREZA Tre volumi (GD,
+GG) 2.0 R</a> </td>
+<td class="text-right">118</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>09-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17883, 301296);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17883">SUBARU IMPREZA Tre volumi (GD,
+GG) 2.0 WRX STi</a> </td>
+<td class="text-right">235</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>02-2004/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 38027, 301483);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=38027">SUBARU IMPREZA Tre volumi (GR)
+1.5</a> </td>
+<td class="text-right">79</td>
+<td class="text-right">1498</td>
+<td class="text-right">4</td>
+<td>02-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 38028, 301484);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=38028">SUBARU IMPREZA Tre volumi (GR)
+1.5 4 ruote motrici</a> </td>
+<td class="text-right">79</td>
+<td class="text-right">1498</td>
+<td class="text-right">4</td>
+<td>02-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 31530, 301441);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=31530">SUBARU JUSTY IV 1.0</a> </td>
+<td class="text-right">51</td>
+<td class="text-right">998</td>
+<td class="text-right">3</td>
+<td>01-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 31568, 301443);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=31568">SUBARU LEGACY IV (BL, BP)
+2.0</a> </td>
+<td class="text-right">110</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>09-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17664, 301285);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17664">SUBARU LEGACY IV (BL, BP)
+3.0</a> </td>
+<td class="text-right">180</td>
+<td class="text-right">3000</td>
+<td class="text-right">6</td>
+<td>09-2003/</td>
+<td>EZ30</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 31571, 301444);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=31571">SUBARU LEGACY IV Station wagon
+(BL, BP, B13_) 2.0</a> </td>
+<td class="text-right">110</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>09-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17665, 301286);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17665">SUBARU LEGACY IV Station wagon
+(BL, BP, B13_) 3.0</a> </td>
+<td class="text-right">180</td>
+<td class="text-right">3000</td>
+<td class="text-right">6</td>
+<td>09-2003/</td>
+<td>EZ30</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 32893, 301458);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32893">SUBARU LEGACY V (BM, BR) 2.0
+i</a> </td>
+<td class="text-right">110</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>09-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32896, 301459);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32896">SUBARU LEGACY V Station wagon
+(BM, BR) 2.0 i</a> </td>
+<td class="text-right">110</td>
+<td class="text-right">1994</td>
+<td class="text-right">4</td>
+<td>09-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19323, 301357);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19323">SUBARU MINIBUS ( EK42 ) 0.7
+VAN ( KR3 )</a> </td>
+<td class="text-right"> </td>
+<td class="text-right"> </td>
+<td class="text-right"> </td>
+<td>01-1983/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19323);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 15502, 301246);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=15502">SUBARU OUTBACK (BE, BH) 3.0
+H6</a> </td>
+<td class="text-right">154</td>
+<td class="text-right">3000</td>
+<td class="text-right">6</td>
+<td>10-2000/08-2003</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17659, 301284);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17659">SUBARU OUTBACK (BL, BP)
+3.0</a> </td>
+<td class="text-right">180</td>
+<td class="text-right">3000</td>
+<td class="text-right">6</td>
+<td>11-2003/</td>
+<td>EZ30</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32891, 301457);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32891">SUBARU OUTBACK (BM, BR) 3.6
+R</a> </td>
+<td class="text-right">191</td>
+<td class="text-right">3630</td>
+<td class="text-right">6</td>
+<td>09-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 36455, 301474);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=36455">SUBARU TRIBECA (B9) 3.0</a>
+</td>
+<td class="text-right">180</td>
+<td class="text-right">3000</td>
+<td class="text-right">6</td>
+<td>10-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 32027, 301445);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=32027">SUBARU TRIBECA (B9) 3.6 V6</a>
+</td>
+<td class="text-right">190</td>
+<td class="text-right">3630</td>
+<td class="text-right">6</td>
+<td>09-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 36534, 301476);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=36534">SUZUKI GRAND VITARA II (JT)
+2.4 4 ruote motrici</a> </td>
+<td class="text-right">124</td>
+<td class="text-right">2393</td>
+<td class="text-right">4</td>
+<td>01-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 36533, 301475);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=36533">SUZUKI GRAND VITARA II (JT)
+2.4 4 ruote motrici</a> </td>
+<td class="text-right">122</td>
+<td class="text-right">2393</td>
+<td class="text-right">4</td>
+<td>01-2009/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 34682, 301469);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=34682">SUZUKI KIZASHI (FR) 2.4</a>
+</td>
+<td class="text-right">131</td>
+<td class="text-right">2393</td>
+<td class="text-right">4</td>
+<td>10-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 42388, 301486);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=42388">SUZUKI KIZASHI (FR) 2.4</a>
+</td>
+<td class="text-right">138</td>
+<td class="text-right">2393</td>
+<td class="text-right">4</td>
+<td>04-2012/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 34683, 301470);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=34683">SUZUKI KIZASHI (FR) 2.4
+4x4</a> </td>
+<td class="text-right">131</td>
+<td class="text-right">2393</td>
+<td class="text-right">4</td>
+<td>10-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 42389, 301487);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=42389">SUZUKI KIZASHI (FR) 2.4
+4WD</a> </td>
+<td class="text-right">138</td>
+<td class="text-right">2393</td>
+<td class="text-right">4</td>
+<td>04-2012/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19562, 301363);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19562">SUZUKI SX4 (EY, GY) 1.5</a>
+</td>
+<td class="text-right">73</td>
+<td class="text-right">1490</td>
+<td class="text-right">4</td>
+<td>06-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19562);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 19259, 301356);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19259">TOYOTA DYNA 200 ( Diesel ) 3.7
+D</a> </td>
+<td class="text-right"> </td>
+<td class="text-right"> </td>
+<td class="text-right"> </td>
+<td>08-1988/09-1992</td>
+<td> </td>
+<td><span class="lang en hidden">diesel</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19259);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 36763, 301478);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=36763">TOYOTA DYNA Pianale
+piatto/Telaio (KD_, LY_, TRY2_, KDY2_ 2.7</a> </td>
+<td class="text-right">109</td>
+<td class="text-right">2694</td>
+<td class="text-right">4</td>
+<td>09-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17229, 301275);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17229">TOYOTA LAND CRUISER (KDJ12_,
+GRJ12_) 4.0 (GRJ12)</a> </td>
+<td class="text-right">183</td>
+<td class="text-right">3956</td>
+<td class="text-right">6</td>
+<td>01-2003/</td>
+<td>1GR-FE</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17229);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">1GR-FE (DOHC VVT-i)</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 34811, 301471);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=34811">TOYOTA LAND CRUISER 150
+(KDJ15_, GRJ15_) 4.0 V6 VVTi</a> </td>
+<td class="text-right">183</td>
+<td class="text-right">3956</td>
+<td class="text-right">6</td>
+<td>01-2010/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 30108, 301429);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30108">VAUXHALL INSIGNIA 2.8 V6
+Turbo</a> </td>
+<td class="text-right">191</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>07-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 30103, 301428);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=30103">VAUXHALL INSIGNIA Station
+wagon 2.8 V6 Turbo</a> </td>
+<td class="text-right">191</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 27668, 301424);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=27668">VAUXHALL INSIGNIA Tre volumi
+2.8 V6 Turbo</a> </td>
+<td class="text-right">191</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>07-2008/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 19110, 301346);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=19110">VAUXHALL SIGNUM 2.8 V6
+Turbo</a> </td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 19110);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 23569, 301401);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23569">VAUXHALL VECTRA Mk II (C) 2.8
+V6 Turbo</a> </td>
+<td class="text-right">184</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 36225, 301473);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=36225">VAUXHALL VECTRA Mk II (C) 2.8
+V6 Turbo</a> </td>
+<td class="text-right">206</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>10-2006/08-2008</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 23570, 301402);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23570">VAUXHALL VECTRA Mk II (C) 2.8
+V6 Turbo</a> </td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 23578, 301405);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23578">VAUXHALL VECTRA Mk II (C) GTS
+2.8 V6 Turbo</a> </td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 23576, 301403);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23576">VAUXHALL VECTRA Mk II (C) GTS
+2.8 V6 Turbo</a> </td>
+<td class="text-right">188</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 23577, 301404);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23577">VAUXHALL VECTRA Mk II (C) GTS
+2.8 V6 Turbo</a> </td>
+<td class="text-right">184</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 23583, 301406);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23583">VAUXHALL VECTRA Mk II (C)
+Station wagon 2.8 V6 Turbo</a> </td>
+<td class="text-right">169</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2005/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 23584, 301407);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23584">VAUXHALL VECTRA Mk II (C)
+Station wagon 2.8 V6 Turbo</a> </td>
+<td class="text-right">188</td>
+<td class="text-right">2792</td>
+<td class="text-right">6</td>
+<td>08-2006/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17819, 301290);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17819">VOLVO S40 II (MS) 2.4</a>
+</td>
+<td class="text-right">103</td>
+<td class="text-right">2435</td>
+<td class="text-right">5</td>
+<td>01-2004/</td>
+<td>B 5244 S5</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17819);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17822, 301293);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17822">VOLVO S40 II (MS) 2.4</a>
+</td>
+<td class="text-right">125</td>
+<td class="text-right">2435</td>
+<td class="text-right">5</td>
+<td>01-2004/</td>
+<td>B 5244 S</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17822);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 16352, 301255);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16352">VOLVO S60 I 2.0 T</a> </td>
+<td class="text-right">132</td>
+<td class="text-right">1984</td>
+<td class="text-right">5</td>
+<td>09-2001/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 16352);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">From construction year</span></td>
+<td><span class="lang en hidden">08.2004</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">B5204T5</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">RS</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">0,8</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 17820, 301291);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17820">VOLVO V50 (MW) 2.4</a> </td>
+<td class="text-right">103</td>
+<td class="text-right">2435</td>
+<td class="text-right">5</td>
+<td>04-2004/</td>
+<td>B 5244 S5</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17820);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 17821, 301292);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=17821">VOLVO V50 (MW) 2.4</a> </td>
+<td class="text-right">125</td>
+<td class="text-right">2435</td>
+<td class="text-right">5</td>
+<td>04-2004/</td>
+<td>B 5244 S</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 17821);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="even">
+<td><a
+onmouseover="return showVehiclePopover(this, 16925, 301267);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=16925">VOLVO V70 II (SW) R 2,5 T
+AWD</a> </td>
+<td class="text-right">221</td>
+<td class="text-right">2521</td>
+<td class="text-right">5</td>
+<td>03-2003/</td>
+<td>B 5254 T4</td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td><a onclick="return toggleVehicleNano(this, '14601', 16925);"
+href="#"><span class="plus">+</span></a> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8">
+<table class="table-list">
+<tbody>
+<tr>
+<td><span class="lang en hidden">To construction year</span></td>
+<td><span class="lang en hidden">07.2007</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Engine Code</span></td>
+<td><span class="lang en hidden">B5254T4</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Model</span></td>
+<td><span class="lang en hidden">P80SW</span></td>
+</tr>
+
+<tr>
+<td><span class="lang en hidden">Electrode Gap to be
+set</span></td>
+<td><span class="lang en hidden">1,1</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+
+<tr class="odd">
+<td><a
+onmouseover="return showVehiclePopover(this, 23628, 301408);"
+onmouseout="return hideVehiclePopover(this);"
+href="/vehicle.jsp?vehicle_id=23628">VOLVO V70 III (BW) 2.5 T</a>
+</td>
+<td class="text-right">147</td>
+<td class="text-right">2521</td>
+<td class="text-right">5</td>
+<td>08-2007/</td>
+<td> </td>
+<td><span class="lang en hidden">gasoline</span> </td>
+<td> </td>
+</tr>
+
+<tr class="plus-info hidden">
+<td colspan="8"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<div class="row">
+<div class="block send-comment-dark col-md-12">
+<h2 class="yellow" style="text-align:center">NON ABBIAMO ciò CHE
+CERCHI?</h2>
+
+<form onsubmit="return sendComment(this);" action="/send_comment"
+method="post"><input type="hidden" name="extra_info" value="" /> 
+
+<div class="col-md-3"><select
+onchange="return toggleWriteCommentEmail(this);" name="category">
+<option class="lang" data-de="eine Kategorie auswählen"
+data-en="select category" data-fr="sélectionner une catégorie"
+data-it="seleziona categoria" data-es="seleccionar una categoría"
+data-pt="selecionar uma categoria" data-ru="выбрать категорию"
+data-pl="wybierz kategorię" data-gr="επιλέξτε κατηγορία"
+value="-1">seleziona categoria</option>
+<option class="lang" data-de="Filter" data-en="filters"
+data-fr="filtres" data-it="filtri" data-es="filtros"
+data-pt="filtros" data-ru="фильтры" data-pl="filtry"
+data-gr="φίλτρα" value="1">filtri</option>
+<option class="lang" data-de="bremsend" data-en="brakes"
+data-fr="freinage" data-it="frenante" data-es="repuestos de frenos"
+data-pt="de travagem" data-ru="тормозной" data-pl="hamulcowe"
+data-gr="φρένων" value="2">frenante</option>
+<option class="lang" data-de="Kupplungen" data-en="clutch"
+data-fr="embrayages" data-it="frizioni" data-es="embragues"
+data-pt="embraiagens" data-ru="разногласия" data-pl="sprzęgła"
+data-gr="συμπλέκτες" value="3">frizioni</option>
+<option class="lang" data-de="Vertrieb" data-en="distribution"
+data-fr="distribution" data-it="distribuzione"
+data-es="distribución" data-pt="distribuição"
+data-ru="распределение" data-pl="dystrybucja" data-gr="διανομή"
+value="6">distribuzione</option>
+<option class="lang" data-de="Aufhängungen" data-en="suspensions"
+data-fr="suspensions" data-it="sospensioni" data-es="suspensiones"
+data-pt="suspensões" data-ru="подвески" data-pl="zawieszenia"
+data-gr="αναρτήσεις" value="7">sospensioni</option>
+<option class="lang" data-de="Kühlung" data-en="cooling"
+data-fr="refroidissement" data-it="raffreddamento"
+data-es="refrigeración" data-pt="arrefecimento"
+data-ru="охлаждение" data-pl="chłodzenie" data-gr="ψύξη" value="8">
+raffreddamento</option>
+<option class="lang" data-de="Motor" data-en="engine parts"
+data-fr="moteur" data-it="motore" data-es="motor" data-pt="motor"
+data-ru="мотор" data-pl="silnik" data-gr="κινητήρας" value="9">
+motore</option>
+<option class="lang" data-de="elektrisch" data-en="electric parts"
+data-fr="électrique" data-it="elettrico" data-es="eléctrico"
+data-pt="elétrico" data-ru="электрический" data-pl="elektryczny"
+data-gr="ηλεκτρικό" value="10">elettrico</option>
+<option class="lang" data-de="Übertragung" data-en="joints"
+data-fr="transmission" data-it="giunti, crociere, cuffie"
+data-es="transmisión" data-pt="transmissão" data-ru="передача"
+data-pl="napęd" data-gr="μεταβίβαση" value="12">giunti, crociere,
+cuffie</option>
+<option class="lang" data-de="Sonstiges" data-en="other"
+data-fr="autre" data-it="altro" data-es="otro" data-pt="outro"
+data-ru="прочее" data-pl="inne" data-gr="άλλο" value="0">
+altro</option>
+</select></div>
+
+<div class="col-md-3"><input
+onkeyup="return toggleWriteCommentText(this);" autocomplete="off"
+disabled="disabled" type="text" name="email"
+data-de="E-Mail einfügen" data-en="insert email"
+data-fr="saisir email" data-it="inserisci email"
+data-es="introducir dirección de email" data-pt="inserir e-mail"
+data-ru="введите адрес электронной почты" data-pl="wpisz e-mail"
+data-gr="εισαγωγή email" placeholder="inserisci email"
+class="lang text-uppercase" /></div>
+
+<div class="col-md-6"><input
+onkeyup="return toggleSubmitComment(this);" autocomplete="off"
+disabled="disabled" type="text" name="comment"
+data-de="Kommentar eingeben" data-en="insert comment"
+data-fr="saisir commentaire" data-it="inserisci commento"
+data-es="escribe un comentario" data-pt="inserir comentário"
+data-ru="добавить комментарий" data-pl="wpisz komentarz"
+data-gr="εισαγωγή σχολίου" placeholder="inserisci commento"
+class="lang text-uppercase" /> <button disabled="disabled"
+type="submit" class="submit-btn box submit"><span
+class="lang en hidden">send</span></button></div>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+<div id="footer">
+<div class="foot-top">
+<div class="container">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-4 block-foot hidden-xs">
+<div class="footer-navigation">
+<h3 class="yellow"><span
+class="lang en hidden">Navigation</span></h3>
+
+<ul>
+<li><a href=""><span class="lang en hidden">home
+page</span></a></li>
+
+<li><a href="/resource.jsp"><span
+class="lang en hidden">catalogues</span></a></li>
+
+<li><a href="/events.jsp"><span class="lang en hidden">events &amp;
+exhibitions</span></a></li>
+
+<li><a href="/distributors.jsp"></a></li>
+
+<li><a href="/reserved/display.jsp?key=replaced_items"><span
+class="lang en hidden">Products</span></a></li>
+
+<li><a href="/gallery.jsp"><span
+class="lang en hidden">gallery</span></a></li>
+
+<li><a href="/contact.jsp?key=contact-us"><span
+class="lang en hidden">contacts</span></a></li>
+</ul>
+</div>
+
+<div class="footer-useful-links ">
+<h3 class="yellow"><span class="lang en hidden">Useful
+links</span></h3>
+
+<ul>
+<li><a href="/search.jsp?search=all"><span
+class="lang en hidden">catalogue</span></a></li>
+
+<li><a data-toggle="modal" data-target="#loginModal" href="#"><span
+class="lang en hidden">reserved area</span></a></li>
+
+<li><a href="/top-search.jsp?key=code"><span
+class="lang en hidden">search</span></a></li>
+
+<li><a href="/page.jsp?key=terms-and-conditions"><span
+class="lang en hidden">Terms and conditions</span></a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-4 block-foot hidden-xs">
+<div id="footer-dealers-italy" class="">
+<h3 class="yellow"><span class="lang en hidden">dealers</span></h3>
+
+<ul>
+<li><a href="/distributors.jsp">ABRUZZO - MOLISE</a></li>
+
+<li><a href="/distributors.jsp">BASILICATA</a></li>
+
+<li><a href="/distributors.jsp">CAMPANIA-CALABRIA</a></li>
+
+<li><a href="/distributors.jsp">EMILIA ROMAGNA</a></li>
+
+<li><a href="/distributors.jsp">LAZIO</a></li>
+
+<li><a href="/distributors.jsp">LIGURIA</a></li>
+
+<li><a href="/distributors.jsp">LOMBARDIA</a></li>
+
+<li><a href="/distributors.jsp">MARCHE</a></li>
+
+<li><a href="/distributors.jsp">PIEMONTE</a></li>
+
+<li><a href="/distributors.jsp">PUGLIA</a></li>
+
+<li><a href="/distributors.jsp">SARDEGNA</a></li>
+
+<li><a href="/distributors.jsp">SICILIA</a></li>
+
+<li><a href="/distributors.jsp">TOSCANA</a></li>
+
+<li><a href="/distributors.jsp">TRIVENETO</a></li>
+
+<li><a href="/distributors.jsp">UMBRIA</a></li>
+</ul>
+</div>
+
+<div id="footer-useful-links-2" class="hidden">
+<h3 class="yellow"><span class="lang en hidden">Useful
+links</span></h3>
+
+<ul>
+<li><a href="/search.jsp?search=all"><span
+class="lang en hidden">catalogue</span></a></li>
+
+<li><a data-toggle="modal" data-target="#loginModal" href="#"><span
+class="lang en hidden">reserved area</span></a></li>
+
+<li><a href="/top-search.jsp?key=code"><span
+class="lang en hidden">search</span></a></li>
+
+<li><a href="/page.jsp?key=terms-and-conditions"><span
+class="lang en hidden">Terms and conditions</span></a></li>
+</ul>
+</div>
+</div>
+
+<div class="col-xs-12 col-sm-12 col-md-4 block-foot">
+<h3 class="yellow"><span class="lang en hidden">Subscribe to our
+newsletter</span></h3>
+
+<div style="position:relative">
+<form onsubmit="return subscribeNewsletter(this);"
+action="/subscribe_newsletter" method="post"><input
+autocomplete="off" onkeyup="return toggleNewsletter(this);"
+type="text" data-de="E-Mail-Adresse.." data-en="email address.."
+data-fr="adresse mail..." data-it="indirizzo email.."
+data-es="dirección de email.." data-pt="endereço de e-mail.."
+data-ru="электронный адрес" data-pl="adres e-mail"
+data-gr="διεύθυνση email" placeholder="indirizzo email.."
+name="nl-email" />  <span class="lang en hidden">send</span></form>
+
+<p class="note"><span class="lang en hidden">By submitting I accept
+the use of my personal data under the law 196/03.</span></p>
+
+<h3 class="yellow"><span class="lang en hidden">Contact
+details</span></h3>
+
+<ul>
+<li><span class="lang en hidden">tel</span>.: +39 045 8517711</li>
+
+<li><span class="lang en hidden">fax</span>: +39 045 8510064</li>
+
+<li><span class="lang en hidden">e-mail</span>:
+info@japanparts.it</li>
+</ul>
+
+<h3 class="yellow"><span class="lang en hidden">Follow us on</span>
+<a href="https://www.facebook.com/japanpartsgroup"></a><a
+href="https://twitter.com/japanpartsvr"></a><a
+href="https://plus.google.com/u/0/113270503908900491310"></a></h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="foot-bottom">
+<div class="container">
+<div class="row">
+<div class="col-md-12"><span class="company">Japanparts s.r.l. -
+Unipersonale</span><br />
+ <span class="lang en hidden">Via della Meccanica, 1/A - 37139
+VERONA (IT - C.F. e P.I.: 02320870237 R.E.A. Verona n. 231457 -
+Cap. Sociale Euro 600.000,00 i.v.</span><br />
+ © Copyright 2015</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="messageModal" tabindex="-1"
+role="dialog" aria-labelledby="messageModalLabel"
+aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close"
+data-dismiss="modal"><span aria-hidden="true">×</span> <span
+class="sr-only"><span
+class="lang en hidden">close</span></span></button></div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="alertModal" tabindex="-1" role="dialog"
+aria-labelledby="alertModal" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header"><button type="button" class="close"
+data-dismiss="modal"><span aria-hidden="true">×</span> <span
+class="sr-only">Close</span></button> 
+
+<h3 class="yellow modal-title"><span
+class="lang en hidden">notice</span></h3>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
