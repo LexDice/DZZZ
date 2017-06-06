@@ -18,12 +18,12 @@ import net.sf.json.util.CycleDetectionStrategy;
 public class MainClass {
 	public static void main(String [] args)
 	{
-		htox.Html2Xml("https://www.baidu.com/","result000.xml");
-		xmloxsl.Xml2JsonWithXsl("result000.xml","new000.xsl","result000.json");
+		htox.Html2Xml("https://www.baidu.com/","result/result000.xml");
+		xmloxsl.Xml2JsonWithXsl("result/result000.xml","xsl/new000.xsl","result/result000.json");
 
 //		htox.Post2Xml("http://www.japanparts.it/blocks/search-content/search-by-vehicle/vehicle-versions.jsp?type=1&model_id=7672","result.xml");
 //		//htox.Post2Xml("http://www.japanparts.it/blocks/search-content/search-by-engine/engine-versions.jsp?manufacturer=35&code=223+A9.000", "result.xml");
-//		xmloxsl.Xml2JsonWithXsl("result.xml","all.xsl","result.json");
+//		xmloxsl.Xml2JsonWithXsl("result.xml","xsl/all.xsl","result.json");
 //		
 //		
 //		FileReader fr;
@@ -85,9 +85,9 @@ public class MainClass {
 //            
 //            
 //        	
-//        	xmloxsl.Xml2JsonWithXsl("result/result-" + jsonArray.get(i) + ".xml","part.xsl","result/result-" + jsonArray.get(i) + ".json");
+//        	xmloxsl.Xml2JsonWithXsl("result/result-" + jsonArray.get(i) + ".xml","xsl/part.xsl","result/result-" + jsonArray.get(i) + ".json");
 //        	System.out.println(jsonArray.get(i) + "---end");
 //        }
-//		//xmloxsl.Xml2JsonWithXsl("result-KDD-416.xml","part.xsl","1111111.json");
+//		//xmloxsl.Xml2JsonWithXsl("result-KDD-416.xml","xsl/part.xsl","1111111.json");
 	}
 }

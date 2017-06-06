@@ -44,7 +44,7 @@ public class ClientHelper {
 	       
 	        client.getHostConfiguration().setHost(LOGON_SITE, LOGON_PORT);
 	       
-	        // 模拟登录页面
+	// 模拟登录页面
 	        PostMethod post = new PostMethod(login_Action);
 	        NameValuePair userName = new NameValuePair("memberName", params[0]);
 	        NameValuePair password = new NameValuePair("password", params[1]);
@@ -52,7 +52,7 @@ public class ClientHelper {
 	        client.executeMethod(post);
 	        System.out.println("执行状态："+client.getState());
 	        post.releaseConnection();
-	        // 查看 cookie 信息
+	// 查看 cookie 信息
 	        CookieSpec cookiespec = CookiePolicy.getDefaultSpec();
 	        Cookie[] cookies = cookiespec.match(LOGON_SITE, LOGON_PORT, "/", false,
 	                client.getState().getCookies());
