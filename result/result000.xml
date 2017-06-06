@@ -263,16 +263,6 @@ input::-ms-clear{display:none}
 .s_ipt{background-color:#FFF;}
 </style>
 <![endif]-->
-<style type="text/css">
-a{
-    text-decoration: none!important;
-    color:#000000!important;
-}
-#u1 a.bri, #u1 a.bri:visited{
-    color: #fff!important;
-}
-</style>
-
 <meta http-equiv="refresh"
 content="0; url=/baidu.html?from=noscript" />
 </head>
@@ -314,8 +304,8 @@ id="mHolder"></span></span>
 
 <input type="hidden" name="rn" value="" /> <input type="hidden"
 name="oq" value="" /> <input type="hidden" name="rsv_pq"
-value="b64a6a44000963cf" /> <input type="hidden" name="rsv_t"
-value="43af0dAX3ABbF9mun32EZoc1h2lTCawYGYum5b8wTGMNlRDx0CsiZVGyNGk" />
+value="ed3894a80002848c" /> <input type="hidden" name="rsv_t"
+value="49c46R8NxQO6eTPLXLZ/kY5BxVZSZkDYM+DuGQdp9/Ji8FejDOv3n7YEWi8" />
  <input type="hidden" name="rqlang" value="cn" /></form>
 
 <div id="m"></div>

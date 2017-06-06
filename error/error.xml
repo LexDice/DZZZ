@@ -1,26 +1,25 @@
 
 Tidy (vers 4th August 2000) Parsing "InputStream"
 line 197 column 3 - Warning: <style> lacks "type" attribute
-line 255 column 3 - Warning: <style> lacks "type" attribute
-line 266 column 4 - Warning: missing </noscript> before <meta>
-line 266 column 4 - Warning: <meta> isn't allowed in <noscript> elements
-line 267 column 3 - Warning: trimming empty <noscript>
-line 269 column 2 - Warning: </head> isn't allowed in <body> elements
-line 270 column 2 - Warning: <body> isn't allowed in <body> elements
-line 279 column 9 - Warning: unknown attribute "hidefocus"
-line 279 column 9 - Warning: <img> lacks "alt" attribute
-line 290 column 35 - Warning: unknown attribute "autocomplete"
-line 293 column 12 - Warning: missing </span> before <div>
-line 293 column 12 - Warning: missing </span> before <div>
-line 299 column 27 - Warning: trimming empty <li>
-line 301 column 16 - Warning: discarding unexpected </span>
-line 301 column 23 - Warning: discarding unexpected </span>
-line 313 column 104 - Warning: trimming empty <i>
-line 344 column 31 - Warning: trimming empty <div>
-line 355 column 323 - Warning: trimming empty <i>
-line 355 column 504 - Warning: trimming empty <i>
+line 257 column 4 - Warning: missing </noscript> before <meta>
+line 257 column 4 - Warning: <meta> isn't allowed in <noscript> elements
+line 258 column 3 - Warning: trimming empty <noscript>
+line 260 column 2 - Warning: </head> isn't allowed in <body> elements
+line 261 column 2 - Warning: <body> isn't allowed in <body> elements
+line 270 column 9 - Warning: unknown attribute "hidefocus"
+line 270 column 9 - Warning: <img> lacks "alt" attribute
+line 281 column 35 - Warning: unknown attribute "autocomplete"
+line 284 column 12 - Warning: missing </span> before <div>
+line 284 column 12 - Warning: missing </span> before <div>
+line 290 column 27 - Warning: trimming empty <li>
+line 292 column 16 - Warning: discarding unexpected </span>
+line 292 column 23 - Warning: discarding unexpected </span>
+line 304 column 104 - Warning: trimming empty <i>
+line 335 column 31 - Warning: trimming empty <div>
+line 346 column 323 - Warning: trimming empty <i>
+line 346 column 504 - Warning: trimming empty <i>
 
 InputStream: Doctype given is ""
 InputStream: Document content looks like HTML proprietary
-19 warnings/errors were found!
+18 warnings/errors were found!
 
