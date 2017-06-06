@@ -86,11 +86,14 @@ public class htox {
     	if(url == "" || result == "")
     		System.out.println("输入字符串不能为空！！");
     	else{
-    		htox t = new htox(url, result, "error.xml");
+    		htox t = new htox(url, result, "error/error.xml");
     		try
     		{
     			Document doc = Jsoup.connect(url) .timeout(30000).get();
-    			t.convert(doc.html());
+    			if(doc.html() == "")
+    				System.out.println("无法获取网页！！");
+    			else
+    				t.convert(doc.html());
     		} catch (IOException e) {
     			System.out.println(e.toString());
     		}
@@ -103,7 +106,7 @@ public class htox {
     	if(url == "" || result == "")
     		System.out.println("输入字符串不能为空！！");
     	else{
-    		htox t = new htox(url, result, "error.xml");
+    		htox t = new htox(url, result, "error/error.xml");
     		WebClient client = new WebClient();
     		client.getOptions().setJavaScriptEnabled(false);
     		client.getOptions().setCssEnabled(false);
@@ -111,8 +114,10 @@ public class htox {
     		try {
     			page = client.getPage(url);
     			String ss = page.getWebResponse().getContentAsString();
-    			System.out.println(ss);
-    			t.convert(ss);
+    			if(ss == "")
+    				System.out.println("Response为空！！");
+    			else
+    				t.convert(ss);
     		} catch (IOException e) {
     			System.out.println(e.toString());
     		}

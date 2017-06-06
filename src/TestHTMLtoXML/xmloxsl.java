@@ -36,6 +36,7 @@ public class xmloxsl {
             e.printStackTrace();
         }
     }
+	
 	private static void WriteXslPart(String outFileName,String tag)
 	{
 		try
@@ -136,7 +137,7 @@ public class xmloxsl {
 			System.out.println("输入字符串不能为空！！");
 		else{
 			String xmlFileName = xml;
-			String xslFileName = "default.xsl";
+			String xslFileName = "xsl/default.xsl";
 			String jsonFileName = json;
 			if(flag)
 				WriteXslAll(xslFileName,tag);
@@ -172,6 +173,7 @@ public class xmloxsl {
 	        }
 		}
 	}
+	
 	public static void Xml2JsonWithXsl(String xml,String xsl,String json)
 	{
 		if(xml == "" || json == "" || xsl == "")
