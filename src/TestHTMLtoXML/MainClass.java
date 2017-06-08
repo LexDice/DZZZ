@@ -1,25 +1,12 @@
 package TestHTMLtoXML;
 
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.FileReader;
-import java.io.IOException;
-
-import org.w3c.tidy.Configuration;
-import org.w3c.tidy.Tidy;
-
-import net.sf.json.JSONArray;
-import net.sf.json.JSONObject;
-import net.sf.json.JsonConfig;  
-import net.sf.json.util.CycleDetectionStrategy; 
 
 public class MainClass {
 	public static void main(String [] args)
 	{
-		htox.Html2Xml("https://www.baidu.com/","result/result000.xml");
-		xmloxsl.Xml2JsonWithXsl("result/result000.xml","xsl/new000.xsl","result/result000.json");
+		htox.Html2Xml("https://www.baidu.com/","result000.xml");
+		xmloxsl.Xml2JsonAll("result000.xml", "111.json", "li");
+		//xmloxsl.Xml2JsonWithXsl("result000.xml","new000.xsl","result000.json");
 
 //		htox.Post2Xml("http://www.japanparts.it/blocks/search-content/search-by-vehicle/vehicle-versions.jsp?type=1&model_id=7672","result.xml");
 //		//htox.Post2Xml("http://www.japanparts.it/blocks/search-content/search-by-engine/engine-versions.jsp?manufacturer=35&code=223+A9.000", "result.xml");

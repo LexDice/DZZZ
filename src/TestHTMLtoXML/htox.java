@@ -15,6 +15,7 @@ import java.io.PrintWriter;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileInputStream;
 
 
@@ -42,6 +43,15 @@ public class htox {
         //tidy.setInputEncoding("utf-8");
 
         try {
+        	File file = new File("config.txt");
+        	if(!file.exists())
+        	{
+        		String config = "new-blocklevel-tags:nav, article, aside, figure, section, meter, progress, time, audio, video, command, datalist, details, canvas, dialog, embed, event-source, footer, figcaption, hgroup, keygen, header,mark, output, source, ruby, main, bdi, figcaption, keygen, mark, rp, rt, summary, track, wbr, picture, i, transition";
+        		FileWriter fw = new FileWriter("config.txt");
+	            BufferedWriter bw = new BufferedWriter(fw);
+	            bw.write(config);
+	            bw.close();
+        	}
         	tidy.setConfigurationFromFile("config.txt");
             tidy.setErrout(new PrintWriter(new FileWriter(errOutFileName), true));
             FileWriter fw = new FileWriter("output.html");
@@ -79,17 +89,18 @@ public class htox {
         }
     }
    
-    
-    
     public static void Html2Xml(String url, String result)
     {
     	if(url == "" || result == "")
     		System.out.println("输入字符串不能为空！！");
     	else{
+    		File file = new File("error");
+    		if(!file.exists())
+    			file.mkdir();
     		htox t = new htox(url, result, "error/error.xml");
     		try
     		{
-    			Document doc = Jsoup.connect(url) .timeout(30000).get();
+    			Document doc = Jsoup.connect(url) .timeout(40000).get();
     			if(doc.html() == "")
     				System.out.println("无法获取网页！！");
     			else
@@ -106,6 +117,9 @@ public class htox {
     	if(url == "" || result == "")
     		System.out.println("输入字符串不能为空！！");
     	else{
+    		File file = new File("error");
+    		if(!file.exists())
+    			file.mkdir();
     		htox t = new htox(url, result, "error/error.xml");
     		WebClient client = new WebClient();
     		client.getOptions().setJavaScriptEnabled(false);
